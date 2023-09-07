@@ -4,7 +4,7 @@ import java.io.FileNotFoundException;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Main {
+public class Seminar2 {
     private static Scanner scanner = new Scanner(System.in);
     private static Random random = new Random();
 
