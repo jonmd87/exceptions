@@ -1,3 +1,5 @@
+package seminar2;
+
 import java.io.FileNotFoundException;
 import java.util.Random;
 import java.util.Scanner;

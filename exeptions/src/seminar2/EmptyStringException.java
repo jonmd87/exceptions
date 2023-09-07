@@ -1,3 +1,5 @@
+package seminar2;
+
 public class EmptyStringException extends Exception{
 
 
